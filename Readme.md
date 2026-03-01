@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-$ npm install drylikov/node-concat-stream
+$ npm install drylikov/Node_concat_stream
 ```
 
 ## Example
