@@ -1,4 +1,3 @@
-
 # node-concat-stream
 
   Lame little utility
