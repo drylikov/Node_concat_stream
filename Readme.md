@@ -15,4 +15,3 @@ $ npm install drylikov/node-concat-stream
 concat(stream, function(err, buffer){});
 ```
 
-
